@@ -1,6 +1,9 @@
 # otter.zsh-theme
 
 🦦 Otter's zsh theme
+![zsh-ottercool](https://github.com/OtterArkar/otter-zsh/blob/main/images/otter-cool.png)
+![zsh-otter-minimal](https://github.com/OtterArkar/otter-zsh/blob/main/images/otter-minimal.png)
+
 
 ## Make sure you install
 
